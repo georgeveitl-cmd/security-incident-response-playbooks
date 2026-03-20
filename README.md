@@ -26,3 +26,9 @@ Each playbook follows a consistent investigation model:
 These examples are generic security procedures designed for educational and professional demonstration purposes only.
 
 No proprietary or employer-specific information is included.
+## Governance Reference
+
+This repository is part of a broader enterprise security program that includes architecture, operations, and governance components.
+
+Central governance framework:
+https://github.com/georgeveitl-cmd/enterprise-security-governance
